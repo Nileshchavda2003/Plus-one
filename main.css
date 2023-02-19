@@ -1,0 +1,56 @@
+        /* Header part */
+        #plus_one_logo {
+            background: url(images/header.png);
+            background-repeat: no-repeat;
+        }
+
+        #plus_one {
+            color: azure;
+        }
+
+        /* image vala section */
+
+        #bgimg {
+            background: url(images/background-img.avif);
+            background-repeat: no-repeat;
+            height: 700px;
+            width: 900px;
+        }
+
+        #itscorporate {
+            font-size: xxx-large;
+            font-family: Trebuchet MS;
+            color: aliceblue;
+            font-weight: 700;
+            margin-top: -90px;
+        }
+
+        #san {
+            color: aliceblue;
+        }
+
+        #business {
+            font-size: 100px;
+            opacity: initial;
+            color: rgba(240, 248, 255, 0.461);
+            font-weight: bolder;
+        }
+
+        #sqrs {
+            color: crimson;
+        }
+
+        #line {
+            background-color: aliceblue;
+             width: 30px;
+        }
+
+        #bgcolor {
+            background-color: rgba(17, 0, 255, 0.325);
+        }
+
+        /* right side */
+        #gulabi {
+            background-color: rgb(247, 128, 148);
+            padding: 30px;
+        }
