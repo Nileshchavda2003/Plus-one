@@ -13,8 +13,9 @@
         #bgimg {
             background: url(images/background-img.avif);
             background-repeat: no-repeat;
-            height: 700px;
-            width: 900px;
+            background-size: cover;
+            /* height: 700px; */
+            width: 100%;
         }
 
         #itscorporate {
@@ -51,6 +52,7 @@
 
         /* right side */
         #gulabi {
-            background-color: rgb(247, 128, 148);
-            padding: 30px;
+
+            background-color: rgba(220, 20, 60, 0.786);
+            padding: 80px;
         }
