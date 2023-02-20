@@ -4,14 +4,18 @@
             background-repeat: no-repeat;
             /* background-repeat: no-repeat; */
             background-size: cover;
-            /* height: 700px; */
-            width: auto;
-            height: auto;
+             height: 190px;
+            width: 100%;
         }
 
-        #plus_one {
-            color: azure;
+        #add {
+            padding: 10px;
         }
+
+        #khali {
+            background-color:floralwhite;
+        }
+
 
         /* image vala section */
 
@@ -45,15 +49,31 @@
 
         #sqrs {
             color: crimson;
+            font-size: x-large;
+        }
+
+        /* about */
+        #aboutfull {
+            font-size: x-large;
+            margin-left: 30px;
+            margin-right: -20px;
+        }
+
+        #out {
+            border-left: 5px solid crimson;
+
         }
 
         #line {
             background-color: aliceblue;
-             width: 30px;
+            padding: 4px;
+            width: 100px;
+            margin-left: 6px;
         }
 
         #bgcolor {
-            background-color: rgba(17, 0, 255, 0.325);
+            background-color: rgba(135, 207, 235, 0.667);
+            padding: 30px;
         }
 
         /* right side */
@@ -62,24 +82,37 @@
             background-color: rgba(220, 20, 60, 0.786);
             padding: 80px;
         }
+
         /* last portion */
-        .pinktext{
+        .pinktext {
+            font-size: larger;
             color: palevioletred;
+            font-weight: 500;
         }
-        .vlog{
+
+        .vlog {
             padding: 30px;
         }
-        .pera{
+
+        .pera {
             text-align: justify;
+            font-weight: 600;
             /* padding: 10px; */
             /* word-spacing: -1px; */
         }
+        .vlog{
+            background-color: ghostwhite;
+        }
         /* footer */
 
-        footer{
+        footer {
             background-color: black;
             color: white;
+            display: flex;
+            padding: 20px;
+
         }
-        #foot{
-            display:inline-flex;
+
+        #ux {
+            text-decoration: overline
         }
