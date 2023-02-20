@@ -2,6 +2,11 @@
         #plus_one_logo {
             background: url(images/header.png);
             background-repeat: no-repeat;
+            /* background-repeat: no-repeat; */
+            background-size: cover;
+            /* height: 700px; */
+            width: auto;
+            height: auto;
         }
 
         #plus_one {
@@ -68,4 +73,13 @@
             text-align: justify;
             /* padding: 10px; */
             /* word-spacing: -1px; */
+        }
+        /* footer */
+
+        footer{
+            background-color: black;
+            color: white;
+        }
+        #foot{
+            display:inline-flex;
         }
