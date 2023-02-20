@@ -16,6 +16,7 @@
             background-size: cover;
             /* height: 700px; */
             width: 100%;
+            height: auto;
         }
 
         #itscorporate {
@@ -55,4 +56,16 @@
 
             background-color: rgba(220, 20, 60, 0.786);
             padding: 80px;
+        }
+        /* last portion */
+        .pinktext{
+            color: palevioletred;
+        }
+        .vlog{
+            padding: 30px;
+        }
+        .pera{
+            text-align: justify;
+            /* padding: 10px; */
+            /* word-spacing: -1px; */
         }
